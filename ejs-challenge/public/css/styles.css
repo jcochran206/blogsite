@@ -2,7 +2,8 @@
     padding-top: 70px;
     padding-bottom: 70px;
 }
-.navbar {
+
+.navbar dark{
     padding-top: 15px;
     padding-bottom: 15px;
     border: 0;
@@ -10,6 +11,7 @@
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    background-color: #3c415e;
 }
 .navbar-nav  li a:hover {
     color: #0573C7 !important;
